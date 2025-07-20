@@ -15,9 +15,9 @@
 
 ## 📋 使用说明
 1. 安装环境 [Node.js](https://nodejs.org/zh-cn/download)
-* 🪟 **Windows 用户**：请选择 `LTS -> Windows Installer (.msi) -> x64 / x86` 
-* 🍎 **macOS 用户**：请选择 `LTS -> macOS Installer -> Arm64 / x64` 
-* 🐧 **Linux 用户**：推荐使用 Node.js 官方提供的安装脚本
+ - 🪟 **Windows 用户**：请选择 `LTS -> Windows Installer (.msi) -> x64 / x86` 
+ - 🍎 **macOS 用户**：请选择 `LTS -> macOS Installer -> Arm64 / x64` 
+ - 🐧 **Linux 用户**：推荐使用 Node.js 官方提供的安装脚本
 
 2. 打开终端（CMD / PowerShell / Terminal），进入项目目录：
 ```
