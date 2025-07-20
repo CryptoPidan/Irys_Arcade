@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@irys/upload": "^0.0.15",
+    "@irys/upload-ethereum": "^0.0.16",
+    "global-agent": "^3.0.0"
+  }
+}
