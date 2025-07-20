@@ -1,4 +1,4 @@
-# Irys_Games_Bot 小游戏脚本
+# Irys_Arcade 小游戏脚本
 
 ## 🚀简介  
 #### 这是一个 **护肝型脚本**，用于自动完成 Irys 平台上的小游戏任务。
@@ -49,9 +49,7 @@ https://username:password@ip:port
 欢迎提交 Issues 或 Pull Requests
 
 ---
----
 #### ☕️ Coffee
 - 🪪 Address: `0xE8Be55CA5Bdb6970F82bA508160C8D2688888888`  
 - 🔗 Contact on  [X](https://x.com/CryptoPidan) ｜ [Telegram](https://t.me/CryptoPidan)
----
 ---
