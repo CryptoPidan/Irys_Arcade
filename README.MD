@@ -25,6 +25,7 @@
 ```
 3. 运行脚本：
 ```
+   npm install
    node index.js
 ```
 
